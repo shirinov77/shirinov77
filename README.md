@@ -1,45 +1,45 @@
-<!-- 3D Animated Header -->
+<!-- Cosmic Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00aa,50:00ccff,100:aa00ff&height=150&section=header&text=🚀%20Muhammad%20Shirinov&fontSize=42&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=%F0%9F%8C%8C%20Muhammad%20Shirinov&fontSize=50&fontColor=00ffaa&animation=glowing&gradient=0:00ccff,50:ff00aa,100:aa00ff" width="100%"/>
 </div>
 
-<!-- Matrix-Style Intro -->
+<!-- Holographic Intro -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;Cloud+Architect;Java+%7C+Spring+%7C+AWS" alt="Typing Intro">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&duration=3500&color=00FFAA&center=true&vCenter=true&width=700&lines=Quantum+Backend+Engineer;Cosmic+Cloud+Architect;Java+%E2%9A%99%EF%B8%8F+Spring+%E2%9A%99%EF%B8%8F+Kubernetes" alt="Typing Intro">
 </h2>
 
-<!-- Glowing Stats -->
+<!-- Alien Tech Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shirnv7&label=PROFILE+VISITS&color=00ffaa&style=for-the-badge" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/shirnv7?label=FOLLOWERS&style=for-the-badge&color=00ccff" alt="Followers"/>
-  <img src="https://wakatime.com/badge/user/xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg?style=for-the-badge&color=aa00ff" alt="Coding Time"/>
+  <img src="https://img.shields.io/badge/%F0%9F%91%BE_Alien_Tech-00ffaa?style=for-the-badge&logoColor=black" alt="Alien Tech"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8C_Cosmic_Coder-aa00ff?style=for-the-badge" alt="Cosmic Coder"/>
+  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_Quantum_Dev-00ccff?style=for-the-badge" alt="Quantum Dev"/>
 </p>
 
 ---
 
-## **💻 Tech Stack**
+## **🌌 Tech Galaxy**
 
-### **Backend Development**
+### **⚡ Core Technologies**
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=121212&color=00ffaa" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=121212&color=00ccff" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=121212&color=aa00ff" alt="Kotlin"/>
 </p>
 
-### **Cloud & DevOps**
+### **☄️ Cosmic Stack**
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=121212&color=00ffaa" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=121212&color=00ccff" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=121212&color=aa00ff" alt="K8s"/>
 </p>
 
 ---
 
-## **📊 GitHub Stats**
+## **📡 GitHub Wormhole**
 
 <div align="center">
   
-| <img src="https://github-readme-stats.vercel.app/api?username=shirnv7&show_icons=true&theme=radical&border_radius=20" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirnv7&theme=radical&border_radius=20" width="400"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=shirnv7&show_icons=true&theme=dark&bg_color=121212&border_color=00ffaa&border_radius=20&title_color=00ccff&icon_color=aa00ff" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirnv7&theme=dark&background=121212&border=00ffaa&stroke=00ccff&ring=aa00ff&fire=ff00aa&currStreakNum=ffffff" width="400"/> |
 |------------|-------------|
 
 </div>
