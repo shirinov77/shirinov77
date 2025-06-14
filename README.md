@@ -1,140 +1,118 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=120&section=header&text=Hi,%20I'm%20Shirinov%20Muhammad!&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=120&section=header&text=Hi,%20I'm%20Muhammad%20Shirinov!&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
-<!-- Venom Capsule (Static Gradient) -->
+<!-- Professional Intro Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:6e45e2,100:88d3ce&text=🚀%20Backend%20Developer%20|%20Crafting%20code%20to%20transform%20the%20world%20💡&fontColor=ffffff&fontSize=24&fontAlignY=45&animation=twinkling" width="90%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:6e45e2,100:88d3ce&text=🚀%20Senior%20Backend%20Developer%20|%20Cloud%20Architect%20|%20Tech%20Innovator&fontColor=ffffff&fontSize=24&fontAlignY=45" width="90%"/>
 </div>
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shirnv7&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" height="25"/>
-  <img src="https://img.shields.io/github/followers/shirnv7?label=Followers&style=flat&color=blue" alt="GitHub followers" height="25"/>
+  <img src="https://komarev.com/ghpvc/?username=shirinov77&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/shirinov77?label=Followers&style=flat&color=blue" alt="GitHub followers"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat" alt="Open to work"/>
 </p>
-
-<!-- Waving Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=60&section=footer" width="100%"/>
-</div>
 
 ---
 
 ## 🌱 Current Focus
-- 🔥 Mastering **Microservices Architecture**
-- 📚 Exploring **Cloud Native Applications** (AWS/Docker/Kubernetes)
-- 🤖 Developing **AI-powered Solutions**
+- 🔥 Building **Scalable Microservices**
+- 📚 Mastering **Cloud Native Technologies** (AWS/Docker/Kubernetes)
+- 🤖 Implementing **AI/ML Solutions** in Backend Systems
 
 ---
 
-<div align="center">
-
 ## 🛠️ Tech Stack
-
-</div>
-
 
 ### 🔙 Backend Development
 <p align="center">
-  <code><img height="60" alt="java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-  <code><img height="60" alt="spring" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
-  <code><img height="60" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
-  <code><img height="60" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <code><img height="60" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="60" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="60" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### ☁️ DevOps & Cloud
+### ☁️ Cloud & DevOps
 <p align="center">
-  <code><img height="60" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="60" alt="kubernetes" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
-  <code><img height="60" alt="aws" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
 ---
 
-<div align="center">
-  
 ## 📊 GitHub Analytics
-
-</div>
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=shirnv77&show_icons=true&theme=radical" width="400"></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shirnv77&theme=radical" width="400"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=shirinov77&show_icons=true&theme=radical" width="400"></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shirinov77&theme=radical" width="400"></td>
     </tr>
     <tr>
-      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirnv77&layout=compact&theme=radical&size_weight=0.5&count_weight=0.3" width="100%" height="150"></td>
+      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirinov77&layout=compact&theme=radical" width="100%" height="150"></td>
     </tr>
   </table>
 </div>
 
 ---
 
-### 🏆 Featured Projects
+## 🏆 Featured Projects
 
-<div align="center">
-
-### 🤖 Telegram Bot Suite
-
+### 🤖 AI-Powered Telegram Bot
 <p align="center">
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code>
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-</div>
-
-**Features**:  
+**Key Features**:  
 - Natural language processing  
-- Payment gateway integration  
-- Admin dashboard  
+- Payment system integration  
+- Custom admin dashboard  
 
 ---
 
-### 🏦 Banking Microservice
+### 🏦 Banking Microservice Architecture
 <p align="center">
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-### **Features**:  
+**Key Features**:  
 - JWT authentication  
-- Event sourcing pattern  
-- Transaction processing  
-
+- Event-driven architecture  
+- Kubernetes deployment  
 
 ---
 
-
-### 📲 Let's Connect
+## 📲 Let's Connect
 
 <div align="center">
   <a href="https://t.me/Shirinov_m" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png" width="60" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" width="120" alt="Telegram"/>
   </a>
   <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="60" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="100" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" width="120" alt="LinkedIn"/>
   </a>
 </div>
 
----
-
-<!-- Snake Animation -->
+<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/shirinov77/shirinov77/output/github-contribution-grid-snake.svg" width="100%">
 </div>
 
 <!-- Waving Footer -->
