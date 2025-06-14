@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/github/followers/shirinov77?label=Followers&style=flat&color=blue" alt="GitHub followers"/>
 </p>
 
-        ---
 
 <!-- Waving Footer -->
 <div align="center">
