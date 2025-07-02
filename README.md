@@ -216,5 +216,5 @@
 
 <!-- Matrix rain effect (conceptual) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="100%" height="150">
+  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="100%" height="300">
 </div>
