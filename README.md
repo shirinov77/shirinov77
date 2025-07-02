@@ -213,8 +213,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=120&section=footer&text=🌟%20Thanks%20for%20Visiting!%20🌟&fontSize=24&fontColor=000000&animation=twinkling&fontAlignY=65&desc=Keep%20Coding,%20Keep%20Dreaming!&descSize=14&descAlignY=85" width="100%"/>
 </div>
-
-<!-- Matrix rain effect (conceptual) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="100%" height="350">
-</div>
