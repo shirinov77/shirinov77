@@ -33,7 +33,8 @@
 
 <div align="center">
 
-## ⚡ TECH ARSENAL ⚡
+<div align ="center"> <h2>⚡ TECH ARSENAL ⚡</h2></div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 
@@ -44,12 +45,12 @@
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,python,go&theme=dark" alt="Backend Skills" />
 </div>
 
-### 🗄️ Database Mastery
+<div align ="center"> <h2>🗄️ Database Mastery</h2></div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,elasticsearch&theme=dark" alt="Database Skills" />
 </div>
 
-### ☁️ DevOps & Cloud Magic
+<div align ="center"> <h2>☁️ DevOps & Cloud Magic</h2></div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,grafana&theme=dark" alt="DevOps Skills" />
 </div>
