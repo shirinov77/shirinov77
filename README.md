@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔥+Shirinov+Muhammad;💻+Backend+Developer;🌟+AI+%26+Cloud+Innovator;⚡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
-<!-- Neon glow profile stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shirinov77&label=👁️‍🗨️+PROFILE+VIEWS&color=blueviolet&style=for-the-badge&labelColor=000000" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/shirinov77?label=🚀+FOLLOWERS&style=for-the-badge&color=red&labelColor=000000" alt="GitHub followers"/>
-  <img src="https://img.shields.io/badge/STATUS-CODING%20BEAST-success?style=for-the-badge&labelColor=000000&color=00ff00" alt="Status"/>
-</p>
-
 <!-- 3D rotating cube effect -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=🔮%20Welcome%20to%20My%20Digital%20Universe%20🔮&height=100&fontSize=28&desc=Where%20Code%20Meets%20Magic&descAlignY=75&animation=twinkling" width="100%"/>
