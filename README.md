@@ -1,11 +1,30 @@
+# 🌟 SHIRINOV MUHAMMAD - The Code Wizard 🧙‍♂️
+
+<!-- Matrix-style animated header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=150&section=header&text=🚀%20SHIRINOV%20MUHAMMAD%20🚀&fontSize=40&fontColor=000000&animation=blinking&fontAlignY=45&desc=Backend%20Architect%20|%20Code%20Magician%20|%20Dream%20Builder&descSize=18&descAlignY=70" width="100%"/>
+</div>
+
 <!-- Typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔥+Shirinov+Muhammad;💻+Backend+Developer;🌟+AI+%26+Cloud+Innovator;⚡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔥+Backend+Developer+Extraordinaire;💻+Microservices+Architect;🌟+AI+%26+Cloud+Innovator;⚡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+</div>
+
+<!-- Neon glow profile stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shirinov77&label=👁️‍🗨️+PROFILE+VIEWS&color=blueviolet&style=for-the-badge&labelColor=000000" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/shirinov77?label=🚀+FOLLOWERS&style=for-the-badge&color=red&labelColor=000000" alt="GitHub followers"/>
+  <img src="https://img.shields.io/badge/STATUS-CODING%20BEAST-success?style=for-the-badge&labelColor=000000&color=00ff00" alt="Status"/>
+</p>
+
+<!-- 3D rotating cube effect -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=🔮%20Welcome%20to%20My%20Digital%20Universe%20🔮&height=100&fontSize=28&desc=Where%20Code%20Meets%20Magic&descAlignY=75&animation=twinkling" width="100%"/>
 </div>
 
 ---
 
-<div align ="center"> <h2>🎯 CURRENT MISSIONS</h2></div>
+## 🎯 CURRENT MISSIONS
 
 <div align="center">
   <table>
@@ -33,24 +52,27 @@
 
 <div align="center">
 
-<div align ="center"> <h2>⚡ TECH ARSENAL ⚡</h2></div>
-
+## ⚡ TECH ARSENAL ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 
 </div>
 
-<div align ="center"> <h2>🎮 Backend Powerhouse</h2></div>
+### 🎮 Backend Powerhouse
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,python,go&theme=dark" alt="Backend Skills" />
 </div>
 
-<div align ="center"> <h2>🗄️ Database Mastery</h2></div>
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend+Arsenal&fontSize=20&titleColor=FF6B6B&lineCount=2&theme=github_dark&bg=0D1117&badge=4ECDC4&border=30363D&titleBg=161B22&line1=java,java,FF6B6B;spring,spring,4ECDC4;dotnet,dotnet,45B7D1;&line2=nodejs,nodejs,96CEB4;python,python,FECA57;go,go,FF9FF3;" />
+</div>
+
+### 🗄️ Database Mastery
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,elasticsearch&theme=dark" alt="Database Skills" />
 </div>
 
-<div align ="center"> <h2>☁️ DevOps & Cloud Magic</h2></div>
+### ☁️ DevOps & Cloud Magic
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,grafana&theme=dark" alt="DevOps Skills" />
 </div>
@@ -99,7 +121,11 @@
 ### 🤖 AI-Powered Telegram Bot Empire
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Bot+Tech+Stack&fontSize=18&titleColor=4ECDC4&lineCount=2&theme=github_dark&bg=0D1117&badge=FF6B6B&border=30363D&titleBg=161B22&line1=nodejs,Node.js,4ECDC4;typescript,TypeScript,45B7D1;mongodb,MongoDB,96CEB4;&line2=ai,OpenAI,FECA57;telegram,Telegram%20API,FF9FF3;payments,Payment%20Gateway,FF6B6B;" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,mongodb&theme=dark" alt="Bot Tech Stack" />
+  <br>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Payments-00C851?style=for-the-badge&logo=stripe&logoColor=white" alt="Payments"/>
 </div>
 
 **🌟 Epic Features:**
@@ -114,7 +140,11 @@
 ### 🏦 Next-Gen Banking Microservice
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Banking+Architecture&fontSize=18&titleColor=FECA57&lineCount=2&theme=github_dark&bg=0D1117&badge=4ECDC4&border=30363D&titleBg=161B22&line1=java,Java%2017,FECA57;spring,Spring%20Boot,4ECDC4;postgresql,PostgreSQL,45B7D1;&line2=docker,Docker,96CEB4;kubernetes,Kubernetes,FF9FF3;aws,AWS%20Cloud,FF6B6B;" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres&theme=dark" alt="Banking Tech Stack" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
 **⚡ Revolutionary Features:**
