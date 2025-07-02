@@ -97,11 +97,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,typescript,mongodb&theme=dark" alt="Bot Tech Stack" />
-  <br>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  <img src="https://img.shields.io/badge/Payments-00C851?style=for-the-badge&logo=stripe&logoColor=white" alt="Payments"/>
-  <img src="https://skillicons.dev/icons?i=openai,telegram,payments&theme=dark" alt="Bot Tech Stack" />
 </div>
 
 **🌟 Epic Features:**
