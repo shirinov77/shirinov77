@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔥+Shirinov+Muhammad;💻+Backend+Developer;🌟+AI+%26+Cloud+Innovator;⚡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
-<!-- 3D rotating cube effect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=🔮%20Welcome%20to%20My%20Digital%20Universe%20🔮&height=100&fontSize=28&desc=Where%20Code%20Meets%20Magic&descAlignY=75&animation=twinkling" width="100%"/>
-</div>
-
 ---
 
 ## 🎯 CURRENT MISSIONS
