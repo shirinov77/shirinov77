@@ -44,9 +44,9 @@
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,python,go&theme=dark" alt="Backend Skills" />
 </div>
 
-<div align="center">
+<!--- <div align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend+Arsenal&fontSize=20&titleColor=FF6B6B&lineCount=2&theme=github_dark&bg=0D1117&badge=4ECDC4&border=30363D&titleBg=161B22&line1=java,java,FF6B6B;spring,spring,4ECDC4;dotnet,dotnet,45B7D1;&line2=nodejs,nodejs,96CEB4;python,python,FECA57;go,go,FF9FF3;" />
-</div>
+</div> -->
 
 ### 🗄️ Database Mastery
 <div align="center">
