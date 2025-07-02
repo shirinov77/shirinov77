@@ -63,9 +63,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,python,go&theme=dark" alt="Backend Skills" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend+Arsenal&fontSize=20&titleColor=FF6B6B&lineCount=2&theme=github_dark&bg=0D1117&badge=4ECDC4&border=30363D&titleBg=161B22&line1=java,java,FF6B6B;spring,spring,4ECDC4;dotnet,dotnet,45B7D1;&line2=nodejs,nodejs,96CEB4;python,python,FECA57;go,go,FF9FF3;" />
-</div>
+
 
 ### 🗄️ Database Mastery
 <div align="center">
@@ -190,16 +188,16 @@
 
 <p align="center">
   <a href="https://t.me/Shirinov_m" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" />
+    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" />
   </a>
   <a href="mailto:shirinovmuhammad11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/shirinov77" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
 
