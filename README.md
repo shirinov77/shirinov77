@@ -149,16 +149,6 @@
 
 <div align="center">
 
-<div align="center"><h2>🌟 ACHIEVEMENTS & TROPHIES</h2></div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shirinov77&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" width="100%">
-
-</div>
-
----
-
-<div align="center">
-
 <div align="center"><h2>🚀 CONNECT WITH THE LEGEND</h2></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18&height=2" width="100%"/>
