@@ -1,11 +1,6 @@
-<!-- Matrix-style animated header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=150&section=header&text=🚀%20SHIRINOV%20MUHAMMAD%20🚀&fontSize=40&fontColor=000000&animation=blinking&fontAlignY=45&desc=Backend%20Architect%20|%20Code%20Magician%20|%20Dream%20Builder&descSize=18&descAlignY=70" width="100%"/>
-</div>
-
 <!-- Typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔥+Backend+Developer+Extraordinaire;💻+Microservices+Architect;🌟+AI+%26+Cloud+Innovator;⚡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔥+Shirinov+Muhammad;💻+Microservices+Architect;🌟+AI+%26+Cloud+Innovator;⚡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
 <!-- Neon glow profile stats -->
