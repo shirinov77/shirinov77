@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 CURRENT MISSIONS
+<div align ="center"> <h2>🎯 CURRENT MISSIONS</h2></div>
 
 <div align="center">
   <table>
