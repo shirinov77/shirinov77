@@ -32,8 +32,7 @@
 ---
 
 <div align="center">
-
-## ⚡ TECH ARSENAL ⚡
+<div align="center"><h2>⚡ TECH ARSENAL ⚡</h2></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 
