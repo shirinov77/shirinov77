@@ -4,8 +4,7 @@
 </div>
 
 ---
-
-## 🎯 CURRENT MISSIONS
+<div align="center"><h2>🎯 CURRENT MISSIONS</h2></div>
 
 <div align="center">
   <table>
@@ -37,20 +36,18 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 
 </div>
-
-### 🎮 Backend Powerhouse
+<div align="center"><h2>🎮 Backend Powerhouse</h2></div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,python,go&theme=dark" alt="Backend Skills" />
 </div>
 
 
-
-### 🗄️ Database Mastery
+<div align="center"><h2>🗄️ Database Mastery</h2></div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,elasticsearch&theme=dark" alt="Database Skills" />
 </div>
 
-### ☁️ DevOps & Cloud Magic
+<div align="center"><h2>☁️ DevOps & Cloud Magic</h2></div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,grafana&theme=dark" alt="DevOps Skills" />
 </div>
@@ -58,8 +55,8 @@
 ---
 
 <div align="center">
-  
-## 📊 PERFORMANCE METRICS
+
+<div align="center"><h2>📊 PERFORMANCE METRICS</h2></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%"/>
 
@@ -90,13 +87,13 @@
 
 <div align="center">
 
-## 🏆 LEGENDARY PROJECTS
+<div align="center"><h2>🏆 LEGENDARY PROJECTS</h2></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
 
 </div>
 
-### 🤖 AI-Powered Telegram Bot Empire
+<div align="center"><h2>🤖 AI-Powered Telegram Bot Empire</h2></div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,typescript,mongodb&theme=dark" alt="Bot Tech Stack" />
@@ -115,7 +112,7 @@
 
 ---
 
-### 🏦 Next-Gen Banking Microservice
+<div align="center"><h2>🏦 Next-Gen Banking Microservice</h2></div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres&theme=dark" alt="Banking Tech Stack" />
@@ -136,7 +133,7 @@
 
 <div align="center">
 
-## 🎨 CONTRIBUTION MASTERPIECE
+<div align="center"><h2>🎨 CONTRIBUTION MASTERPIECE</h2></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=2" width="100%"/>
 
@@ -152,7 +149,7 @@
 
 <div align="center">
 
-## 🌟 ACHIEVEMENTS & TROPHIES
+<div align="center"><h2>🌟 ACHIEVEMENTS & TROPHIES</h2></div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=shirinov77&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" width="100%">
 
@@ -162,7 +159,7 @@
 
 <div align="center">
 
-## 🚀 CONNECT WITH THE LEGEND
+<div align="center"><h2>🚀 CONNECT WITH THE LEGEND</h2></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18&height=2" width="100%"/>
 
