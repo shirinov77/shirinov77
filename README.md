@@ -137,9 +137,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=2" width="100%"/>
 
-<!-- 3D Contribution Graph -->
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=shirinov77&theme=dark&background=0D1117&bar_color_1=FF6B6B&bar_color_2=4ECDC4&bar_color_3=45B7D1&bar_color_4=96CEB4" width="100%">
-
 <!-- Animated Snake -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
