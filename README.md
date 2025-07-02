@@ -39,7 +39,7 @@
 
 </div>
 
-### 🎮 Backend Powerhouse
+<div align ="center">"### 🎮 Backend Powerhouse</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,python,go&theme=dark" alt="Backend Skills" />
 </div>
