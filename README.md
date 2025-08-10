@@ -4,34 +4,6 @@
 </div>
 
 ---
-<div align="center"><h2>🎯 CURRENT MISSIONS</h2></div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/l3nWhI38IWDofyDrW/giphy.gif" width="100">
-        <br><b>🔥 Microservices Mastery</b>
-        <br>Architecting scalable systems
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
-        <br><b>☁️ Cloud Native Revolution</b>
-        <br>AWS | Docker | Kubernetes
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100">
-        <br><b>🤖 AI-Powered Solutions</b>
-        <br>Building the future, today
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-<div align="center"><h2>⚡ TECH ARSENAL ⚡</h2></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 
