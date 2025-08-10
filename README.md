@@ -1,54 +1,50 @@
 <div align="center">
+  
+# **Muhammad Shirinov**  
+### Backend Developer | Java & Spring Boot  
+*"Turning ideas into clean, scalable code."*
 
-# **Muhammad Shirinov**
-### ☕ Backend Developer | Java & Spring Boot  
-*"Turning ideas into scalable, secure solutions"*
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A1A1A)](https://t.me/Shirinov_m)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A)](mailto:shirinovmuhammad11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A)](https://www.linkedin.com/in/muhammad-shirinov-1a5b35366)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A)](https://github.com/shirinov77)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shirinov_m)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shirinovmuhammad11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shirinov-1a5b35366)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shirinov77)
 
 </div>
 
 ---
 
 ## 🛠 Tech Stack
-<div align="center">
-
-| **Category**   | **Technologies** |
-|---------------|------------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,js" height="40"/> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,nodejs" height="40"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="40"/> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,linux" height="40"/> |
-
-</div>
+**Languages:** Java, Python, JavaScript  
+**Frameworks:** Spring Boot, Node.js  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**DevOps:** Docker, Git, Linux, Postman  
 
 ---
 
-## 🚀 Featured Projects
-- **Clinic Management System** – Patient, appointment & billing management.
-- **E-commerce API** – Scalable backend for orders, payments, and products.
-- **Learning Platform** – REST API for courses & quizzes.
+## 🚀 Projects
+- **Clinic Management System** – Patient records, scheduling & billing automation.  
+- **E-commerce Backend** – Product, order & payment API with high scalability.  
+- **Online Learning Platform** – REST API for course management and payments.  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirinov77&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirinov77&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shirinov77&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shirinov77&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📫 Contact
-📩 [Telegram](https://t.me/Shirinov_m) • [Email](mailto:shirinovmuhammad11@gmail.com) • [LinkedIn](https://www.linkedin.com/in/muhammad-shirinov-1a5b35366)
+## 📫 Let’s Connect
+- **Telegram:** [@Shirinov_m](https://t.me/Shirinov_m)  
+- **Email:** shirinovmuhammad11@gmail.com  
+- **LinkedIn:** [Muhammad Shirinov](https://www.linkedin.com/in/muhammad-shirinov-1a5b35366)  
 
 ---
 
 <div align="center">
   
-💡 *"Code with clarity, build with purpose."*  
+*"Code. Learn. Repeat."*  
 
 </div>
