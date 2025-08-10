@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔥+Shirinov+Muhammad;💻+Backend+Developer;🌟+AI+%26+Cloud+Innovator;⚡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 
 </div>
