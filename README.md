@@ -59,26 +59,6 @@
 
 ---
 
-<div align="center">
-  
-## 📊 GitHub Analytics
-
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=shirinov77&show_icons=true&theme=radical" width="400"></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shirinov777&theme=radical" width="400"></td>
-    </tr>
-    <tr>
-      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirinov77&layout=compact&theme=radical&size_weight=0.5&count_weight=0.3" width="100%" height="150"></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🏆 Featured Projects
 
 <div align="center">
