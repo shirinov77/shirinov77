@@ -30,8 +30,12 @@
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirinov77&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shirinov77&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shirinov77&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirinov77&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shirinov77&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
