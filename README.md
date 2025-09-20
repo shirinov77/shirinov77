@@ -114,8 +114,9 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/shirinov77/shirinov77/output/snake.svg" width="100%">
 </div>
+
 
 <!-- Waving Footer -->
 <div align="center">
